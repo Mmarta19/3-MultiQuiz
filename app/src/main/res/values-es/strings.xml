@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="check">Comprueba</string>
+    <string name="question">Pregunta</string>
+    <string name="prev">Anterior</string>
+    <string name="correct">Correcto!</string>
+    <string name="finish">Terminar</string>
+    <string name="incorrect">Fallaste...</string>
+    <string name="next">Siguiente</string>
+
+    <array name="all_questions">
+        <item>Cual es la capital de España?;Barcelona;Navarra;*Madrid;Canovi</item>
+        <item>Cuantas patas tiene una araña?;4;*8;6;5</item>
+    </array>
+</resources>

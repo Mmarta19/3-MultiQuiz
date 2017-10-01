@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question">Pregunta</string>
+    <string name="check">Comproba</string>
+    <string name="correct">Correcte!</string>
+    <string name="prev">Anterior</string>
+    <string name="finish">Acabar</string>
+    <string name="incorrect">Has fallat...</string>
+    <string name="next">Següent</string>
+
+    <array name="all_questions">
+        <item>Quina és la capital de Espanya?;Barcelona;Navarra;*Madrid;Canovi</item>
+        <item>Quantes potes té una aranya?;4;*8;6;5</item>
+    </array>
+</resources>
